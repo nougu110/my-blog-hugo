@@ -1,0 +1,54 @@
+# -- メインメニュー --
+# ヘッダーに表示されるメニュー項目を定義します。
+
+# 「Blog」ネストメニューの親要素
+[[main]]
+  name = "Blog"
+  identifier = "blog" # このメニューを識別するための一意のID
+  weight = 10 # メニューの表示順（小さいほど左）
+
+# 「Blog」の子要素1: 投稿一覧
+[[main]]
+  name = "投稿一覧"
+  parent = "blog" # 親要素のIDを指定
+  url = "/posts/"
+  weight = 1
+
+# 「Blog」の子要素2: タグ
+[[main]]
+  name = "タグ"
+  parent = "blog"
+  url = "/tags/"
+  weight = 2
+
+# 「R18」アイコンメニュー
+[[main]]
+  identifier = "r18"
+  pre = "r18" # assets/icons/r18.svg をアイコンとして使用
+  url = "/r18/"
+  weight = 20
+  name = "" # アイコンのみを表示するため、名前は空にする
+
+[[main]]
+  name = "Soundcloud"
+  pre = "soundcloud"
+  url = "https://soundcloud.com/x05wbvs6pplo"
+  weight = 30
+
+[[main]]
+  name = "Twitter"
+  pre = "twitter"
+  url = "https://twitter.com/_nougu"
+  weight = 31
+
+[[main]]
+  name = "Bandcamp"
+  pre = "bandcamp"
+  url = "https://bandcamp.com/nougu"
+  weight = 32
+
+[[main]]
+  name = "Discogs"
+  pre = "discogs"
+  url = "https://www.discogs.com/ja/user/nougu/collection?header=1"
+  weight = 33

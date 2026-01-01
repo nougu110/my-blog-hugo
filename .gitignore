@@ -1,0 +1,24 @@
+# Hugo generated files
+/public/
+/resources/_gen/
+/.hugo_build.lock
+
+# Node.js dependencies (if using npm for theme assets)
+/node_modules/
+
+# macOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
+
+# IDE specific files (e.g., VS Code)
+.vscode/
+.idea/
+
+# Environment variables
+.env
+.env.*
+
+# Log files
+*.log
