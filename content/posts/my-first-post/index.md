@@ -47,11 +47,7 @@ tags: ["日記", "音楽"]
 
 #### Aki&MAID TWIST - Higher
 
-<!--
-
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3699732026/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://suiheirecords.bandcamp.com/album/higher">Higher Aki &amp; MAID TWIST</a></iframe>
-
--->
 
 ##### リズムマシン由来のグルーヴ感がダンスミュージックとしての渋さかっこよさを, 細かく刻んだブレイクビーツの応酬がわんぱくさ楽しさを感じさせられる楽しくてかっこいい1曲。
 
