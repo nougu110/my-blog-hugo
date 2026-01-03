@@ -11,7 +11,9 @@ tags: ["日記", "音楽"]
 
 ##### 今までTwitterのbioに貼ってたブログサイトを作り直したくなったので作り直しました...というのが2026年の1/1のことです。最初にhugo触った時はドキュメントと睨めっこしながらかなり時間かけてサイトを作っていたのですが今回はGemini CLIにモリモリtoml弄ってもらったので1日で作り終えました。AIって偉大ですね。
 
-##### せっかくのリニューアル後初投稿なので2025年に聴いたリリースの中でおすすめのやつを振り返ってみようと思います。
+##### せっかくのリニューアル後初投稿なので2025年に知ったリリースの中でおすすめのやつを振り返ってみようと思います。
+
+### 国内・同人リリース編
 
 #### Lzie - せかいにさよなら(Nightcore Amen Mix)
 
@@ -25,7 +27,7 @@ tags: ["日記", "音楽"]
 
 ##### そこにセンス抜群のアーメンカットアップが入るともう最高って感じの1曲。
 
-##### ~~1サビ前気持ち良すぎて毎回ちょっとイク。~~
+###### ~~1サビ前気持ち良すぎて毎回ちょっとイク。~~
 
 #### pencil - I'm not DJ(to this day)
 
@@ -67,13 +69,73 @@ tags: ["日記", "音楽"]
 
 ##### JungleもHardtekも大好きなのにJungletekって聴いたことなかったなと。
 
-##### ソニックネタ？のサウンドも展開もめちゃくちゃ楽しい１曲。
+##### ソニックネタ？のサウンドも展開もめちゃくちゃ楽しい１曲でXFD時点からもうハマってた。
 
-##### パッケージも凝ってて良かった。
+##### あとCDのパッケージも凝っていた良かった。(アルバムはフィジカル限定だけどFortune Echoのおふたりが出てるパーティーでまだ買えるかも？)
+
+#### Salena - X-Radio
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1966442272/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=3816103589/transparent=true/" seamless><a href="https://salena.bandcamp.com/album/serial-fragments">Serial Fragments Salena</a></iframe>
+
+
+##### 硬いキックが高密度で繰り出されるのもベースのサウンドも気持ち良すぎる。
+
+##### そしてキャッチーなセリフのサンプリングによる楽しさもアリ。と思ったらおそらくVN作品からの楽曲サンプリングで展開的にも嬉しさが。
+
+##### いままでSalena氏の楽曲はJaycore Invasionに提供されてるCruel Noir(こちらもマジでいい曲)しか聴いたことがなかったけどSerial Fragmentsに入ってる曲どれも良すぎてほんとうに買って良かった。
+
+#### °flux garage - Acid Rain 401
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1638248196/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://perfect-freeze.bandcamp.com/album/tama-me-nut-01">Tama Me Nut 01 fluxgarage, rhytone, tamame, ankokushinwa</a></iframe>
+
+##### CCC2で知った°flux garage氏のリリースから1曲。
+
+##### うねるような歪んだベース(AcidBassも鳴りますがそれとは別)と刻みのセンスが良すぎるセリフのサンプリング, リズムの変化による展開作り, そのどれもがこの曲で踊りたいと思わせるもので最高。
+
+##### ぜひパーティーでも聴きたい１曲。
+
+#### MAID TWIST - Feel It In The Eternal (Pray For Something Mix)
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=751879695/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=2674553551/transparent=true/" seamless><a href="https://suiheirecords.bandcamp.com/album/hallucination-from-the-womb">Hallucination from the womb MAID TWIST</a></iframe>
+
+##### 90年代の楽曲っぽい(この表現が適切であるかどうかは不明)煌びやかなM1ピアノや歪んだリズムマシンのキックといった要素による気持ち良さと, スタブやアーメンの刻みで見られる現代的で高密度な気持ちよさの融合する1曲。
+
+###### ~~高速ストロークからの大射精を繰り返すみたいな展開の気持ちよさがある~~
+
+#### 5iame5e - We are Kawaii, You are Tekno
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1664303646/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=3797745398/transparent=true/" seamless><a href="https://hardcore-teknology.bandcamp.com/album/hctk-002">[HCTK-002]初めての構築 5iame5e</a></iframe>
+
+##### 踊るというか暴れたくなる曲。
+
+##### レイヴィーなサウンドと多種多様なサンプリングが高速なテンポに乗って流れ込んでくる感じで多幸感がすごい。
+
+##### 氏のツイート曰くタイに韓国にウガンダとワールドワイドなサンプリングをされたそうですが自分は元ネタ全然分かりませんでした。
+
+#### CAXZ & DJ SneezeᗡX - All Summer's Fault!
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=260582627/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=103838123/transparent=true/" seamless><a href="https://madbreaks.bandcamp.com/album/doujin-sonic-generation">Doujin Sonic Generation CAXZ &amp; DJ SneezeᗡX</a></iframe>
+
+##### Doujin Sonic Generation収録で"かけぬけ★青春スパーキング!"ネタのまっすぐで楽しいJ-core。
+
+##### M3で買ったdeswide氏によるMixカセットテープのSide Bの頭でかかるのでアルバムリリース前から印象に残っていたやつ。
+
+#### Loctek - No Party for the Cat
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=4022998086/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=2651305637/transparent=true/" seamless><a href="https://no-logiky-scrawl.bandcamp.com/album/face-mini-best">FACE MINI BEST Loctek</a></iframe>
+
+##### 言わずもがなの猫パですが、自分は2025年に出会いました。
+
+##### 自分がここに綴るまでもなく最高に楽しい1曲。
+
+##### CCCはBandcampないのでLIVE Refix版を添付。
 
 ## おわりに
 
-##### ここまで書いてきましたが、全部国内リリース&この記事を読む数少ないみなさまはおそらく大体買っているというラインナップになっちゃったので前後編として記事を書いて後編には毛色の違う曲たちを並べたいなと思いました。
-##### あとここに書いてないけど大好きでめっちゃ聴いたリリースもいっぱいあるのでその辺は何卒。
+##### 書ききれないのでいったんここまで。
+
+##### というか他にもありすぎるのでこの記事は2026年中に更新し続けます。(たぶん)
+
+##### 後編では国外や同人でないリリースをまとめます。
 
 ### 後編に続く(公開日未定)
