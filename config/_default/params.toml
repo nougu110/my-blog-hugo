@@ -1,10 +1,10 @@
 showLanguageSwitcher = false
-colorScheme = "github"
+colorScheme = "blowfish"
 defaultAppearance = "light" # valid options: light or dark
-autoSwitchAppearance = false
+autoSwitchAppearance = true
 
 enableA11y = false
-enableSearch = true
+enableSearch = false
 enableCodeCopy = false
 enableStructuredBreadcrumbs = false
 # enableStyledScrollbar = true # disable to use native scrollbar style (defaults to true)
@@ -35,7 +35,7 @@ giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v11.next.forgejo.org"
 
 [header]
-  layout = "basic" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
+  layout = "fixed-fill-blur" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
 
 [footer]
   showMenu = true
@@ -45,8 +45,8 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   showScrollToTop = true
 
 [homepage]
-  layout = "hero" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "img/background.png" # used in: hero, and card
+  layout = "profile" # valid options: page, profile, hero, card, background, custom
+  # homepageImage = "img/background.png" # used in: hero, and card
   showRecent = true
   showRecentItems = 4
   showMoreLink = true
